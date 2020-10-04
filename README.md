@@ -1,2 +1,2 @@
 # Training-Algorithm-CS355
-
+Calculates the recurrence relationship described as "a new workout strategy", where  one "runs N miles fast every day, but not all at once, but broken up into intervals with short rests between them" In reality, the number of "days needed" to complete all different combinations of distances per the assignment is the partition of the number being used to represent the total number of miles planned to train for.
